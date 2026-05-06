@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sushma655/Leetcode-DSA/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/sushma655/Leetcode-DSA/tree/master/0027-remove-element) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sushma655/Leetcode-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sushma655/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/sushma655/Leetcode-DSA/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
