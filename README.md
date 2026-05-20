@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/sushma655/Leetcode-DSA/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/sushma655/Leetcode-DSA/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/sushma655/Leetcode-DSA/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/sushma655/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sushma655/Leetcode-DSA/tree/master/0015-3sum) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sushma655/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
