@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sushma655/Leetcode-DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sushma655/Leetcode-DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/sushma655/Leetcode-DSA/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/sushma655/Leetcode-DSA/tree/master/0031-next-permutation) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sushma655/Leetcode-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sushma655/Leetcode-DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/sushma655/Leetcode-DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sushma655/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/sushma655/Leetcode-DSA/tree/master/0031-next-permutation) |
 ## Binary Search
 |  |
 | ------- |
