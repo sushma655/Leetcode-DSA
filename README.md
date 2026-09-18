@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sushma655/Leetcode-DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/sushma655/Leetcode-DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sushma655/Leetcode-DSA/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sushma655/Leetcode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sushma655/Leetcode-DSA/tree/master/0035-search-insert-position) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sushma655/Leetcode-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sushma655/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sushma655/Leetcode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sushma655/Leetcode-DSA/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
