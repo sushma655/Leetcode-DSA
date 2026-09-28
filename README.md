@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sushma655/Leetcode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sushma655/Leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sushma655/Leetcode-DSA/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/sushma655/Leetcode-DSA/tree/master/0039-combination-sum) |
 | [0088-merge-sorted-array](https://github.com/sushma655/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sushma655/Leetcode-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sushma655/Leetcode-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sushma655/Leetcode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sushma655/Leetcode-DSA/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/sushma655/Leetcode-DSA/tree/master/0039-combination-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
