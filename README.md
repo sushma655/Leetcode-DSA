@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sushma655/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/sushma655/Leetcode-DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/sushma655/Leetcode-DSA/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/sushma655/Leetcode-DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sushma655/Leetcode-DSA/tree/master/0067-add-binary) |
 ## Array
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sushma655/Leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sushma655/Leetcode-DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/sushma655/Leetcode-DSA/tree/master/0039-combination-sum) |
+| [0066-plus-one](https://github.com/sushma655/Leetcode-DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/sushma655/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/sushma655/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sushma655/Leetcode-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
