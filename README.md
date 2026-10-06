@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sushma655/Leetcode-DSA/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sushma655/Leetcode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sushma655/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sushma655/Leetcode-DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sushma655/Leetcode-DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sushma655/Leetcode-DSA/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sushma655/Leetcode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sushma655/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sushma655/Leetcode-DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sushma655/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
