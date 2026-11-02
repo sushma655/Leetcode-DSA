@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sushma655/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sushma655/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sushma655/Leetcode-DSA/tree/master/0070-climbing-stairs) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sushma655/Leetcode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Array
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sushma655/Leetcode-DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/sushma655/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/sushma655/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sushma655/Leetcode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sushma655/Leetcode-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sushma655/Leetcode-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sushma655/Leetcode-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sushma655/Leetcode-DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sushma655/Leetcode-DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/sushma655/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sushma655/Leetcode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Stack
 |  |
 | ------- |
