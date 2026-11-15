@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sushma655/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sushma655/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sushma655/Leetcode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sushma655/Leetcode-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Array
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sushma655/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/sushma655/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sushma655/Leetcode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sushma655/Leetcode-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sushma655/Leetcode-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sushma655/Leetcode-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sushma655/Leetcode-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sushma655/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/sushma655/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sushma655/Leetcode-DSA/tree/master/0070-climbing-stairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sushma655/Leetcode-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sushma655/Leetcode-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sushma655/Leetcode-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Matrix
 |  |
